@@ -1,0 +1,8 @@
+
+1702637757173: {req.method}/ New Request Received
+1702637757208: {req.method}/favicon.ico New Request Received
+1702637802117: GET/ New Request Received
+1702637802139: GET/favicon.ico New Request Received
+1702638199480: GET/ New Request Received
+1702638199502: GET/favicon.ico New Request Received
+1702638209408: GET/signup New Request Received
